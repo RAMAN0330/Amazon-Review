@@ -20,6 +20,7 @@ Amazon reviews provide a wealth of information about products, services, and cus
 - NLTK (Natural Language Toolkit)
 - Pandas
 - Matplotlib
+- scipy
 
 
 ## Usage
